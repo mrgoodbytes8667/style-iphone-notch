@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Safely handles the notch in the iPhone X+",
   "repository": "https://github.com/mrgoodbytes8667/style-iphone-notch",
-  "author": "MrGoodBytes <bytes@goodbytes.live>"
+  "author": "MrGoodBytes <bytes@mrgoodbytes.dev>",
   "files": [
     "css/*"
   ]
